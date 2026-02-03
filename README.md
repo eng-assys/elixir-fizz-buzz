@@ -1,6 +1,14 @@
 # FizzBuzz
+A project to Learn Elixir Language
 
-**TODO: Add description**
+## Problem Explanation
+- Multiples of 3 are replaced by Fizz
+- Multiples of 5 are replaced by Buzz
+- Multiples of both 3 and 5 are replaced by FizzBuzz
+
+## Important Detail
+- We will read the list of numbers from a file!
+  - If the file does not exist, we will display an error message to the user.
 
 ## Installation
 
